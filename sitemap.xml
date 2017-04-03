@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>http://yoursite.com/2017/04/03/hello-again/</loc>
+    
+    <lastmod>2017-04-03T08:13:53.788Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/04/03/again/</loc>
+    
+    <lastmod>2017-04-03T08:07:30.892Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/2017/04/03/hello-world/</loc>
+    
+    <lastmod>2017-04-03T07:46:17.756Z</lastmod>
+    
+  </url>
+  
+</urlset>
