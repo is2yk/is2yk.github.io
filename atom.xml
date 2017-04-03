@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-04-03T09:22:16.447Z</updated>
+  <updated>2017-04-03T09:35:30.716Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,32 +16,20 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>about me</title>
-    <link href="http://yoursite.com/2017/04/03/about-me/"/>
-    <id>http://yoursite.com/2017/04/03/about-me/</id>
-    <published>2017-04-03T09:22:16.000Z</published>
-    <updated>2017-04-03T09:22:16.447Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
     <title>hexo 博客平台迁移</title>
     <link href="http://yoursite.com/2017/04/03/%E5%8D%9A%E5%AE%A2%E5%B9%B3%E5%8F%B0%E8%BF%81%E7%A7%BB/"/>
     <id>http://yoursite.com/2017/04/03/博客平台迁移/</id>
     <published>2017-04-03T08:49:40.000Z</published>
-    <updated>2017-04-03T09:09:29.539Z</updated>
+    <updated>2017-04-03T09:35:30.716Z</updated>
     
     <content type="html"><![CDATA[<p>从 Mac 的使用环境切换到了 Windows , 由于对 git 的 不熟, 虽然博客还能用, 但是数据都丢失了, 而且有许多冗余的数据.</p>
+<p>$2^2$</p>
 ]]></content>
     
     <summary type="html">
     
       &lt;p&gt;从 Mac 的使用环境切换到了 Windows , 由于对 git 的 不熟, 虽然博客还能用, 但是数据都丢失了, 而且有许多冗余的数据.&lt;/p&gt;
+&lt;p&gt;$2^2$&lt;/p&gt;
 
     
     </summary>
