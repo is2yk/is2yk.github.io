@@ -40,9 +40,98 @@
     <link href="http://yoursite.com/2017/04/03/GTD/"/>
     <id>http://yoursite.com/2017/04/03/GTD/</id>
     <published>2017-04-03T08:33:22.000Z</published>
-    <updated>2017-04-03T08:33:22.510Z</updated>
+    <updated>2017-04-03T08:54:42.673Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="GTD"><a href="#GTD" class="headerlink" title="GTD"></a>GTD</h1><p>目的：把大脑的想法分离出来,使大脑可已更加集中精神的处理一件事情<br>好处: 知道下一步要做的事情,<br>假如有成千上万个想法在那里嗡嗡乱转，把它们写在纸上，我感觉会好得多。一旦变成文字记录下来，我就不再担心会忘记</p>
+<p>建议使用便利贴, 不要完全依赖软件,原因之一是使用便利贴可也保持使用状态的一致性, 即手上拿着笔可马上写, 而不用经过解锁手机打开软件的步骤添加. 其二就是可以有效的避免了手机其他因素的干扰, 随也不可能知道手机什么时候回有消息过来.</p>
+<p>使用便利贴可以记录: 名词解释,</p>
+<h2 id="基本原则"><a href="#基本原则" class="headerlink" title="基本原则"></a>基本原则</h2><ul>
+<li><p><strong>知道下一步要做什么</strong></p>
+<blockquote>
+<p>感觉有很多事情要做, 但是又不知道从何开始, 所以说确定要做的事情必须有优先级, 且事情分得足够小, 以至于可以在一个番茄钟内完成</p>
+</blockquote>
+</li>
+<li><p><strong>控制做的事情的时间范围</strong></p>
+<blockquote>
+<p>不放回原则: 当决定开始某项任务时就尽力完成, 不要在放回收集箱里<br>把类似的任务放在一起。</p>
+</blockquote>
+</li>
+<li><p><strong>提高注意力, 不要分心, 一次只做一件事, 不要多项工作同时进行</strong></p>
+<blockquote>
+<p>尤其是牵涉到学习的最好就单任务, 特别是在啃干货的时候, 不能自己增加环境影响. 尽量不要为了玩或者拖延,将工作放在最后一起做. 因为这时往往要加班加点, 就好像为了买超市超出当前购买力的东西,你不得不为此支付利息,需然利息不多,但是会减缓未来的成长</p>
+</blockquote>
+</li>
+</ul>
+<blockquote>
+<p>同时做两件事儿的诀窍在于</p>
+<ol>
+<li>其中一件事儿最好是机械的,少点技术含量的;「运动」</li>
+<li>另外一件事儿不是特别需要大量脑力支持的;「社交，看新闻」</li>
+<li>两件事儿都应该是确实有效用因而值得时间投资的。</li>
+</ol>
+</blockquote>
+<ul>
+<li><p><strong>每周回顾清单</strong></p>
+<p> 当你的系统中存放着越来越多的任务时,你就会丧失整理得欲望</p>
+<p> 回顾的时候做什么呢?</p>
+</li>
+<li><p>加工收集的所有的“材料” (脱水)，尽量整合进自己的知识系统，保持「自洽」性</p>
+</li>
+<li>回顾和检查你的系统</li>
+<li>更新各类清单</li>
+<li>做到清洁，清楚，实时，完整    </li>
+</ul>
+<ol>
+<li>按照一定的关联性收集文件(首字母,某类事情)</li>
+<li>不要将资料塞满柜桶,2/3就差不多了,以免资料太多难找</li>
+<li>清单要放在自己随处可见的地方,方便自己随时检查与使用</li>
+<li>基本的应用场景都应该有对应的清单</li>
+</ol>
+<h2 id="GTD工具的选择"><a href="#GTD工具的选择" class="headerlink" title="GTD工具的选择"></a>GTD工具的选择</h2><p>对于GTD理论来说,必须具有的功能就是</p>
+<ul>
+<li>构件清单列表</li>
+<li>“工作任务”清单</li>
+<li>“下一步行动”清单<ul>
+<li>“待处理”清单</li>
+</ul>
+</li>
+<li>为事件添加优先级</li>
+<li>有提醒功能<ul>
+<li>按执行的时间分<ol>
+<li>执行</li>
+<li>待办/将来会做的事</li>
+</ol>
+</li>
+<li>按使用场景分<ol>
+<li>在办公室</li>
+<li>在路上</li>
+<li>在电脑旁</li>
+</ol>
+</li>
+</ul>
+</li>
+</ul>
+<p>仪式感</p>
+<p>经常感到焦虑，只因为自己做的事情看不到任何正向的结果，但是又想坚持下去. 有很多想做的事情，但是没有优先级，任务都是突然兴起加的. 所以说要有仪式感来强迫自己做某些事情</p>
+<h2 id="GTD使用流程"><a href="#GTD使用流程" class="headerlink" title="GTD使用流程"></a>GTD使用流程</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div></pre></td><td class="code"><pre><div class="line">graph TB</div><div class="line">	A[突然想到了有一件想做的事情] --&gt; B[想能不能在一天内解决]</div><div class="line">	B -- YES --&gt; I[两分钟能否完成]</div><div class="line">	I -- YES --&gt; J[立即完成]</div><div class="line">	I -- NO --&gt; K[指派给别人]</div><div class="line">	K --&gt; L[等待别人去处理]</div><div class="line">	I -- NO --&gt; C[加入到下一步清单,设置优先级]</div><div class="line">	B -- NO --&gt; D[看日程表大概什么时候有时间,就设置在该点提醒]</div><div class="line">	C --&gt;E[接着就继续自己目前的工作]</div><div class="line">	E --&gt; F[每天晚上看一下下一步清单是否还有任务]</div><div class="line">	F -- YES --&gt; H[能解决的立刻做,不能做才留到明天]</div></pre></td></tr></table></figure>
+<h2 id="怎么寻找任务"><a href="#怎么寻找任务" class="headerlink" title="怎么寻找任务"></a>怎么寻找任务</h2><blockquote>
+<p>每天晚上将第二天必须完成的 3~5 个任务列出来,然后按优先级完成.</p>
+<p>任务的收集</p>
+<ol>
+<li>检查自己的工作环境,是否有工具要替换或升级</li>
+<li>感觉效率低的地方记下来</li>
+<li>待办的事情</li>
+<li>某一时刻的想法</li>
+</ol>
+</blockquote>
+<p>结果导向型.</p>
+<p>很多新的任务是基于上一个任务的结果才会出现的, 所以有些东西接下来会怎样还不得而知.那么该怎么处理这些东西呢?</p>
+<p>既然是未知的东西, 那么先让它运行起来, 到时候看情况在做决定.</p>
+]]></content>
     
     <summary type="html">
+    
+      &lt;h1 id=&quot;GTD&quot;&gt;&lt;a href=&quot;#GTD&quot; class=&quot;headerlink&quot; title=&quot;GTD&quot;&gt;&lt;/a&gt;GTD&lt;/h1&gt;&lt;p&gt;目的：把大脑的想法分离出来,使大脑可已更加集中精神的处理一件事情&lt;br&gt;好处: 知道下一步要做的事情,&lt;br&gt;假如有成千上万个想法在
     
     </summary>
     
